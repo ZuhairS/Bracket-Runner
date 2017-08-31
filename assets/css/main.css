@@ -3745,6 +3745,11 @@
 			width: 100%;
 		}
 
+		#footer .inner a {
+			margin: 0 20px;
+			font-size: 40px;
+		}
+
 		#footer .inner form {
 			margin: 0 3em 0 0;
 			width: calc(50% - 1.5em);
